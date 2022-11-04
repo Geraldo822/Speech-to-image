@@ -1,3 +1,5 @@
+# Credit to: github.com/parisyup and myself
+
 # Speech to text AI
 Downloads and transcribes mp3s from youtube and text it to a generated image.
 
@@ -8,3 +10,4 @@ Generates an image based on the command and text written.
 
 # Voice to text AI 
 Transcribes your speech into generated images.
+
