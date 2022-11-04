@@ -1,10 +1,10 @@
 # Speech to text AI
-Brief description of the bot
+Downloads and transcribes mp3s from youtube and text it to a generated image.
 
 # Discord bot
-Brief description of the bot make sure to mention 
+Generates an image based on the command and text written.
 1- Text to image using $g
 2- Youtube video to image using $gyt
 
 # Voice to text AI 
-describe the ai  for the voice input 
+Transcribes your speech into generated images.
